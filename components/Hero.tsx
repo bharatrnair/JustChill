@@ -24,7 +24,7 @@ export const Hero = () => {
                 Download Template
               </a>
               <a
-                href="https://github.com/web3templates/nextly-template/"
+                href="https://github.com/bharatrnair"
                 target="_blank"
                 rel="noopener"
                 className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
